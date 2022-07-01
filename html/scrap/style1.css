@@ -1,0 +1,163 @@
+* body{
+    width: 970px;
+    background-color: aliceblue;
+    color: rgb(84, 84, 84);
+    margin: auto;
+}
+
+
+.container{
+    display: flex;
+    height: auto;
+    margin: 10px;
+    padding: 10px;
+}
+.container-1{
+    display: flex;
+    height: auto;
+    margin: 5px;
+    padding: 5px;
+}
+.container-2{
+    display: flex;
+    height: auto;
+    background-color: black;
+    color: white;
+    margin-top: 30px;
+}
+
+
+
+
+/* .header-main{
+    display: flex;
+    color: grey;
+    flex: 2;
+    padding-left: 8px;
+    padding-bottom: 0p;
+
+} */
+
+#navbar li{
+    display: inline;
+    padding-right: 20px;
+    flex: 1;
+    color: grey;
+    align-items: flex-end;
+    padding-top: 0;
+    margin-top: 0;
+}
+#navbar ul{
+    align-items: flex-end;
+}
+
+
+.carousel{
+    display: flex;
+}
+
+.box-1{
+    flex: 1;
+    height: auto;
+}
+
+.box-data{
+    font-size: larger;
+    word-wrap: break-word;
+    max-width: 1;
+    margin-bottom: 50px;
+    line-height: 1.2mn;
+}
+.box-title{
+    font-size: large;
+    padding-bottom: 25px;
+    font-weight: bold;
+    margin-top: 30px;
+}
+.box{
+    font-size: x-large;
+    margin: 100px;
+    word-wrap: break-word;
+}
+.image1{
+    flex: 1;
+}
+.logo{
+    font-size: small;
+    padding-top: 0px;
+    margin-top: 0px;
+    padding-bottom: 20px;
+}
+.header-left{
+    color: grey;
+    padding: none;
+    max-height: 100px;
+    line-height: 10px;
+
+}
+.button{
+    background-color: lightseagreen;
+    color: white;
+    padding: 2px 5px;
+    border: 1px;
+    margin-top: 50px;
+    border-radius: 5px;
+    line-height: 2mn;
+    
+
+}
+.quotes{
+    font-size: 20px;
+    font-style: italic;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}
+.new1{
+    border-top: 2px darkblue;
+}
+.new2{
+    border-top: 20px;
+    color: blue;
+    
+}
+.container-botton{
+    display: flex;
+}
+
+.box-title1{
+    font-size: 8px;
+    float: right;
+    text-align: justify;
+    word-wrap: break-word;
+
+}
+.box-data1{
+    float: right;
+    text-align: justify;
+    word-wrap:break-word;
+}
+.square{
+    float: left;
+}
+.contact{
+    background-color: black;
+    color: white;
+    margin-top: 20px;
+    line-height: 2;
+    margin: 5px;
+    padding: 5px;
+    padding-left: 50px;
+    
+}
+.details{
+    flex: 1;
+}
+.box-l{
+    flex: 1;
+    line-height: 2;
+    padding: 20px;
+    margin: 5px;
+}

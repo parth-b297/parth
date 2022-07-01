@@ -1,0 +1,45 @@
+.block-1{
+    float: left;
+    width: 33.3;
+    border: 1px;
+    padding: auto;
+    box-sizing: border-box;
+}
+
+/* .container ul{
+    color: black;
+    background-color: aqua;
+    list-style: none;
+     
+
+} */
+
+#navbar a{
+    /* color: */
+    font-size: 18;
+    padding: 15px;
+}
+#navbar ul{
+    color: black;
+    background-color: aqua;
+    list-style: none;
+}
+#navbar li{
+    display: inline;
+}
+
+.container1{
+    display: flex;
+}
+.box-1{
+    flex: 1;
+}
+.box-2{
+    flex: 1;
+}
+.box-3{
+    flex: 1;
+}
+.image{
+    border-image-width: 200px;
+}
